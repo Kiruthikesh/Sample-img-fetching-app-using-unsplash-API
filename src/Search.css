@@ -1,0 +1,12 @@
+.search-container{
+    border: 1px solid black;
+    text-align: center;
+    padding: 15px;
+    background-color:aquamarine;
+   
+}
+
+.inputbox{
+    border-radius: 5px;
+}
+
